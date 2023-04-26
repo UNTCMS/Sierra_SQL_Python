@@ -1,0 +1,144 @@
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_1-BadBibCountryCode.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_2-BadBibLanguageCode.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_3-BadBibLocations-InvalidBibLocationnone.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_4-BadBibLocations-InvalidBibLocations.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_5-BadBibLocations-InvalidLocations.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_6-BadBibMaterialType.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_7-BadBibSuppression.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/1_8-BadBibType.py &
+
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/2_1-BadOrderCountryCode.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/2_2-BadOrderLanguageCode.py &
+
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/3_1-BadAuSource.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/3_2-BadAuSuppression.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/3_3-BadAuType.py &
+
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_1-BadItemGiftStats.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_2-BadItemIMessage.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_3-BadItemITypes.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_4-BadItemLocations-InvalidItemLocationnone.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_5-BadItemLocations-InvalidItemLocation.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_6-BadItemLocations-InvalidLocation.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_7-BadItemOPACMessage.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_8-BadItemStatus.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/4_9-BadItemSuppression.py &
+
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/5_1-BadBibFieldTagSummary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/5_2-BadBibFieldTag.py &
+
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_1-BadLeader_05Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_2-BadLeader_05.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_3-BadLeader_06Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_4-BadLeader_06.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_5-BadLeader_07Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_6-BadLeader_07.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_7-BadLeader_08Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_8-BadLeader_08.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_9-BadLeader_09Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_10-BadLeader_09.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_11-BadLeader_17Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_12-BadLeader_17.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_13-BadLeader_18Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_14-BadLeader_18.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_15-BadLeader_19Summary.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_16-BadLeader_19.py &
+python C:/Users/sdk0046/AppData/Local/Programs/Python/Python310/CodeVerificationScripts/6_17-BadLeaderCoding.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\7_1-BadBibMaterialTypeandLeader06OneProblem.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\7_2-BadBibMaterialTypeandLeader06Summary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\7_3-BadBibMaterialTypeandLeader06.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_1_1-Bad33XField.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_1_2-Bad336ContentType.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_1_3-Bad337MediaType.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_1_4-Bad338CarrierType.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_1-Bad340_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_2-Bad340_a_c_eMaterial.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_3-Bad340_bDimensions.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_4-Bad340_dProductionMethod.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_5-Bad340_fReductionRatio.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_6-Bad340_gColourContent.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_7-Bad340_jGeneration.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_8-Bad340_kLayout.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_9-Bad340_mBibFormat.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_10-Bad340_nFontSize.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_2_11-Bad340_oPolarity.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_1-Bad344_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_2-Bad344_aTypeofRecording.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_3-Bad344_bRecordingMedium.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_4-Bad344_cPlayingSpeed.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_5-Bad344_dGroovePitch_Width.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_6-Bad344_eTrackConfiguration.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_7-Bad344_fTapeConfiguration.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_8-Bad344_gConfigurationofPlaybackChannels.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_3_9-Bad344_hSpecialPlaybackCharacteristics.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_4_1-Bad345_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_4_2-Bad345_aPresentationFormat.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_4_3-Bad345_bProjectionSpeed.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_4_4-Bad345_cAspectRatioValue.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_4_5-Bad345_dAspectRatioDesignation.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_5_1-Bad346_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_5_2-Bad346_aVideoFormat.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_5_3-Bad346_bBroadcastStandard.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_1-Bad347_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_2-Bad347_aFileType.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_3-Bad347_bEncodingFormat.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_4-Bad347_cFileSize.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_5-Bad347_dResolution.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_6-Bad347_eRegionalEncoding.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_6_7-Bad347_fEncodedBitrate.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_7_1-Bad348_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_7_2-Bad348_aFormatofNotatedMusic.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_7_3-Bad348_bFormatofNotatedMusicCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_8_1-Bad380_FormofWork.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_9_1-Bad382_2SourceCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_9_2-Bad382_a_b_d_pMediumofPerformance.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\8_9_3-Bad382_e_n_r_s_tNumber.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\9_1-BadSubjectSourceSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\9_2-BadSubjectSource.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\10_1-IllegalAlienAuthoritySummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\10_2-IllegalAlienAuthority.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\10_3-IllegalAlienSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\10_4-IllegalAlien.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\11_1-Bad655GenreAccessibilitySummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\11_2-Bad655GenreAccessibility.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\12_1-BadAnalyticalTitlesMissingSubfieldt.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\12_2-BadAnalyticalTitles.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\12_3-BadAnalyticalTitlesContainerOf.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_1-BadSubfield4Summary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_2-BadSubfield4Field.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_3-BadSubfield4.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_4-BadSubfield4RelatorCodeSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_4-BadSubfield4RelatorCode.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_5-BadSubfield4RelatorCodeURIsToDelete.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_6-BadSubfield1URISummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_7-BadSubfield1URI.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_8-BadSubfield1URIToDelete.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_9-BadSubfield0URISummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_10-BadSubfield0URI.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_11-BadSubfield0URIToDelete.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\13_12-BadSubfield0Subfield1URISummary.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\14_1-HexCharactersSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\14_2-HexCharacters.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\15_1-BadDelimitersSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\15_2-BadDelimiters.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\16_1-Bad588SourceofDescriptionIndicator.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\16_2-Bad588SourceofDescriptionSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\16_3-Bad588SourceofDescription.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\17_1-Duplicate008Field.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\17_2-DuplicateMARCTagbyLocation.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\17_3-DuplicateFieldContent.py &
+
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\18_1-BadLCCallNumbersSummary.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\18_2-BadLCCallNumbers.py &
+python C:\Users\sdk0046\AppData\Local\Programs\Python\Python310\CodeVerificationScripts\18_3-DuplicateLCCallNumber.py
